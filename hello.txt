@@ -1,7 +1,36 @@
 good morning
-123
+2322222222222
 hahah
+<<<<<<< HEAD
 GOODKKK
 
 --------------
 之前使用的mast 分支
+=======
+456
+===============
+
+
+DDOOKK
+789
+
+-------
+idea 添加之后修改的
+
+
+
+DDOOKK
+
+DDOOKK
+
+DDOOKK
+
+DDOOKK
+DDOOKK
+DDOOKK
+DDOOKK
+
+====idea push
+>>>>>>> idea
+-------------------
+！！！！！！！！！！！！！！！！！！
