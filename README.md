@@ -1,3 +1,3 @@
 # test_repositories
 
-测试学习的一个仓库
+学习、测试的一个仓库
